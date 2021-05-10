@@ -193,31 +193,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\junkf\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/andryw/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Cursos\\Projetos\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "/Volumes/MacOS Dados/Projetos/Cursos/Projetos/Back/src/ProEventos.API/ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "D:\\Projetos\\Cursos\\Projetos\\ProEventos.API\\ProEventos.API.csproj",
-      "packagesPath": "C:\\Users\\junkf\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Cursos\\Projetos\\ProEventos.API\\obj\\",
+      "projectPath": "/Volumes/MacOS Dados/Projetos/Cursos/Projetos/Back/src/ProEventos.API/ProEventos.API.csproj",
+      "packagesPath": "/Users/andryw/.nuget/packages/",
+      "outputPath": "/Volumes/MacOS Dados/Projetos/Cursos/Projetos/Back/src/ProEventos.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\junkf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/andryw/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -259,7 +256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -18,6 +18,7 @@ namespace ProEventos.API
 {
     public class Startup
     {
+        //teste
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

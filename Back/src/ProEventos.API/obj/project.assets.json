@@ -1293,31 +1293,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrywafonso\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/andryw/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AndrywProjects\\Cursos\\Projetos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "/media/andryw/Dados/Projetos/Cursos/Back/src/ProEventos.API/ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "C:\\AndrywProjects\\Cursos\\Projetos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
-      "packagesPath": "C:\\Users\\andrywafonso\\.nuget\\packages\\",
-      "outputPath": "C:\\AndrywProjects\\Cursos\\Projetos\\Back\\src\\ProEventos.API\\obj\\",
+      "projectPath": "/media/andryw/Dados/Projetos/Cursos/Back/src/ProEventos.API/ProEventos.API.csproj",
+      "packagesPath": "/home/andryw/.nuget/packages/",
+      "outputPath": "/media/andryw/Dados/Projetos/Cursos/Back/src/ProEventos.API/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andrywafonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/andryw/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1379,7 +1372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

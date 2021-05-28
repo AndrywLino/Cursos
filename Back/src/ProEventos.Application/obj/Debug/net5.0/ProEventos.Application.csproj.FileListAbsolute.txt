@@ -1,0 +1,17 @@
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csprojAssemblyReference.cache
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\AndrywProjects\Cursos\Back\Src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
